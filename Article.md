@@ -57,7 +57,7 @@ However, when people talk about TESLA, they really appreciate the products manuf
 The cars are launched after lots of **market research** and **R&D in car design** and this is certainly one of the most important reason behind this craze about Tesla.
 <br>
 
-Hence, it would be better to call it Popularity, rather Success!
+Hence, it would be better to call it Popularity, rather Success.
 
 
 
@@ -171,10 +171,6 @@ I would conclude with this quote of Elon Musk:
 Tesla stock would then have only a trend. 
 
 Yes you are right!
-
-
-
-
 
 
 
