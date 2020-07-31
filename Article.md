@@ -33,6 +33,7 @@ However, it is not that clear that it can be considered a success or not. There 
 
 <br>
 <br>
+
 ![tesla wiki](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/Capture.JPG)
 
 <br>
@@ -67,7 +68,7 @@ Tesla performed quite well in US market.
 <br>
 <br>
 
-[us_stock_tesla](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/1.png)
+![us_stock_tesla](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/1.png)
 
 <br>
 <br>
@@ -77,7 +78,8 @@ Tesla performed quite well in US market.
 <br>
 <br>
 
-[growth_perc](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/2.png)
+![growth_perc](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/2.png)
+
 <br>
 <br>
 
@@ -90,7 +92,7 @@ Tesla sales in EU is not that astonishing.
 <br>
 <br>
 
-[us_vs_eu](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/3.png)
+![us_vs_eu](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/3.png)
 <br>
 <br>
 
@@ -99,7 +101,8 @@ It does not mean there are not times when EU sales crossed US sales mark, due to
 <br>
 <br>
 
-[eu_beats_us](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/eubeatus.png)
+![eu_beats_us](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/eubeatus.png)
+
 
 <br>
 <br>
@@ -113,7 +116,7 @@ In 2016, Norway itself accounted for 1/4th of total sales of Tesla across EU!
 <br>
 <br>
 
-[2016](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/4.png)
+![2016](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/4.png)
 
 <br>
 <br>
