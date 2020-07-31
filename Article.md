@@ -112,11 +112,11 @@ Clearly, in lase 2019 and early 2020, the sales in EU crossed US sales by sales 
 
 Well let's get into what happened in Netherlands in that time frame.
 
-In 2018, Dutch government announced **4% benefit-in-kind (BiK) tax** on all-electric cars. 
+In 2018, Dutch government announced **4% benefit-in-kind (BiK) tax** on all-electric cars. So one has to pay 4% tax for electric car instead of 22% for non-electric cars. This 18% discount is already a lot. On top of that there was no limit on car price. So,you get the benefit even if the car costs 100K or more. 
 
-And in 2018, there was no limit on car price. So,you get the benefit even if the car costs 100K. If you have to pay a tax of 4% instead of 22%, it is no wonder a huge attraction for masses which showed the result.
+If you have to pay a tax of 4% instead of 22%, it is ,no wonder, a huge attraction for masses which resulted into the huge sales growth of Tesla in Netherlands.
 
-However, as we can see below, the plan is to increase it to 8% till 50K in 2020 and 12% in 2021.
+However, the plan is to increase it to 8% & 12% in 2020 & 2021 for electric cars whose cost is less than 50K and 45K respectively.
 
 
 * 2018: 4%
