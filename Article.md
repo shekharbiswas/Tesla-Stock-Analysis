@@ -2,17 +2,21 @@
 
 <br>
 
-BMW           - $41 billion
-Honda         - $46 billion
-Volkswagen    - $74 billion
-Ford          - $24 billion
-Ferrari       - $32 billion
-General Motors- $36 billion
-Fiat Chrysler - $20 billion
+- BMW           - $41 billion
+- Honda         - $46 billion
+- Volkswagen    - $74 billion
+- Ford          - $24 billion
+- Ferrari       - $32 billion
+- General Motors- $36 billion
+- Fiat Chrysler - $20 billion
+..
+..
+<br>
+<br>
 
-TESLA         - $300 billion
+- TESLA         - $300 billion
 
-You can do the math.
+Your turn to do the math.
 
 
 With no surprise, TESLA became the most valued car company on the planet on 13th July, 2020. It surpassed the combined market value of BMW, VW, GM and many other rivals.
