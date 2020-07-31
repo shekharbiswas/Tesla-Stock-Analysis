@@ -31,12 +31,12 @@ However, it is not that clear that it can be considered a success or not. There 
 
 * Tesla is still in red in terms of Income and Revenue.
 
-<br>
+
 <br>
 
 ![tesla wiki](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/Capture.JPG)
 
-<br>
+
 <br>
 
 * Many people believe that the electric cars sold by TESLA are sold at low market price which even does not cover the manufacturing cost and this is success mantra for TESLA.
@@ -65,23 +65,16 @@ Hence, it would be better to call it Popularity, rather Success!
 
 Tesla performed quite well in US market.
 
-<br>
-<br>
 
 ![us_stock_tesla](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/1.png)
 
-<br>
-<br>
 
 * Tesla grew **200% in 2017** and **300% in 2018**. It's nothing less than an incredible achievement!
 
-<br>
-<br>
 
 ![growth_perc](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/2.png)
 
-<br>
-<br>
+
 
 ## Tesla Performance in EU Market
 
@@ -89,17 +82,15 @@ Probably, you have guessed it already and you're right.
 
 Tesla sales in EU is not that astonishing.
 
-<br>
-<br>
+
 
 ![us_vs_eu](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/3.png)
-<br>
-<br>
 
-It does not mean there are not times when EU sales crossed US sales mark, due to  few countries in EU (mainly Germany, Norway and Netherlands).
 
-<br>
-<br>
+It does not mean there are not times when EU sales crossed US sales mark.
+
+The credit goes to few countries in EU (mainly Germany, Norway and Netherlands which combinedly account for more than 50% sales in EU ).
+
 
 ![eu_beats_us](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/eubeatus.png)
 
@@ -109,19 +100,15 @@ It does not mean there are not times when EU sales crossed US sales mark, due to
 
 ### Sales breakdown across EU countries
 
-* Norway has been a very progressive country in terms of welcoming green energy and reducing carbon emission for long.
+* Norway has been a very progressive country in terms of welcoming green energy and reducing carbon emission for long. In 2016, Norway itself accounted for 1/4th of total sales of Tesla across EU!
 
-In 2016, Norway itself accounted for 1/4th of total sales of Tesla across EU!
-
-<br>
-<br>
 
 ![2016](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/4.png)
 
-<br>
-<br>
 
-In 2017, sales is Norway even grew more accounting for more than 1/3rd EU sales!
-Germany became 2nd best market.
+
+* In 2017, sales is Norway even grew more accounting for more than 1/3rd EU sales! Germany became 2nd best market.
+
+![2017](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/5.png)
 
 
