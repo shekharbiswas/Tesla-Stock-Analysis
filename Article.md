@@ -2,13 +2,19 @@
 
 <br>
 
-- BMW           - $41 billion
-- Honda         - $46 billion
-- Volkswagen    - $74 billion
-- Ford          - $24 billion
-- Ferrari       - $32 billion
-- General Motors- $36 billion
-- Fiat Chrysler - $20 billion
+* BMW           - $41 billion
+* Honda         - $46 billion
+* Volkswagen    - $74 billion
+* Ford          - $24 billion
+* Ferrari       - $32 billion
+* General Motors- $36 billion
+* Fiat Chrysler - $20 billion
+..
+..
+<br>
+<br>
+
+* TESLA         - $300 billion
 ..
 ..
 <br>
