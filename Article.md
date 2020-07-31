@@ -32,6 +32,7 @@ However, it is not that clear that it can be considered a success or not. There 
 * Tesla is still in red in Income and Revenue.
 
 <br>
+
 ![tesla wiki](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/Capture.JPG)
 
 
