@@ -112,9 +112,11 @@ Clearly, in lase 2019 and early 2020, the sales in EU crossed US sales by sales 
 
 Well let's get into what happened in Netherlands in that time frame.
 
-In 2018, Dutch government announced 4% **benefit-in-kind (BiK) tax on all-electric cars.**. And in 2018, there was no limit on car price. So,you get the benefit even if the car costs 100K. If you have to pay a tax of 4% instead of 22%, it is no wonder a huge attraction for masses which showed the result.
+In 2018, Dutch government announced **4% benefit-in-kind (BiK) tax** on all-electric cars. 
 
-However, as we can see below, the plan is to increase it to 8% till 50Kin 2020 and 12% in 2021.
+And in 2018, there was no limit on car price. So,you get the benefit even if the car costs 100K. If you have to pay a tax of 4% instead of 22%, it is no wonder a huge attraction for masses which showed the result.
+
+However, as we can see below, the plan is to increase it to 8% till 50K in 2020 and 12% in 2021.
 
 
 * 2018: 4%
