@@ -89,7 +89,7 @@ The credit goes to few countries in EU (mainly Germany, Norway and Netherlands w
 
 ![eu_beats_us](https://github.com/shekharbiswas/Tesla-Stock-Analysis/blob/master/images/eubeatus.png)
 
-Clearly, in lase 2019 and early 2020, the sales in EU crossed US sales by sales volume.
+Clearly, in late 2019 and early 2020, the sales in EU crossed US sales by sales volume.
 
 <br>
 <br>
