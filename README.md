@@ -173,7 +173,7 @@ Tesla stock would then have only a trend.
 Yes you are right!
 
 
-The video that explains the code behind it is here:
+The video that explains the code behind is here:
 
 <br>
 
